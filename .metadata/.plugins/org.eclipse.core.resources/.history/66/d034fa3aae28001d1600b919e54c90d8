@@ -19,9 +19,5 @@ public class NotacaoPonto {
 				.toUpperCase()
 				.concat("!!!!");
 		System.out.println(y);
-		
-		// Tipos primitivos não tem operador "."
-		int a = 3;
-		System.out.println(a);
 	}
 }

@@ -1,0 +1,17 @@
+package fundamentos;
+
+public class ExSozinho1 {
+	
+	public static void main(String[] args) {
+		
+		int a[], b;
+		a = new int[1];
+		b = new int [1];
+		
+		a[0] = 1;
+		b[0] = 1;
+		
+		System.out.println(a[0] + b[0]);
+	}
+
+}
